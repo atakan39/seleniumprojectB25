@@ -12,5 +12,9 @@ public class SeleniumTest {
         WebDriver driver= new ChromeDriver();
 
         driver.get("https://www.facebook.com");
+
+        driver.close();
+
+
     }
 }
