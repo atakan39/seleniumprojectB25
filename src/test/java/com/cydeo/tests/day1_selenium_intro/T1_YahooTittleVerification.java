@@ -15,6 +15,8 @@ public class T1_YahooTittleVerification {
         // go to the page
         driver.get("https://www.yahoo.com");
 
+
+
         //3.verify title:
         //Expected:Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos
 
